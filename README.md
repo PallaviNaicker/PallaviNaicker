@@ -1,4 +1,3 @@
-![Masterhead](https://i.pinimg.com/originals/19/ce/58/19ce58c4d49883197ed1b2dac5108079.jpg)
 <h1 align="center">Hi 👋, I'm Pallavi M</h1>
 <h3 align="center">"𝖲𝖳𝖴𝖣𝖤𝖭𝖳 | 𝖣𝖠𝖳𝖠 𝖲𝖢𝖨𝖤𝖭𝖢𝖤 𝖤𝖭𝖳𝖧𝖴𝖲𝖨𝖠𝖲𝖳 | 𝖢𝖱𝖤𝖠𝖳𝖨𝖵𝖤 𝖣𝖤𝖲𝖨𝖦𝖭𝖤𝖱 | 𝖣𝖨𝖦𝖨𝖳𝖠𝖫 𝖠𝖱𝖳𝖨𝖲𝖳 | 𝖫𝖤𝖠𝖱𝖭𝖤𝖱"</h3>
 <h4 align="center">Embracing the latest tech trends with an open mind from AI to data science and beyond Lets learn innovate and collaborate to create impactful solutions for society
